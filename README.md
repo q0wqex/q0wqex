@@ -28,7 +28,6 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:lis@q0wqex.ru"><img src="https://img.shields.io/badge/Email-lis@q0wqex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/q0wqex"><img src="https://img.shields.io/badge/Telegram-@q0wqex-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
