@@ -1,6 +1,7 @@
 # q0wqex
 
-*Automation Specialist from Russia — focused on smart automation and scripting.*
+**Automation & Scripting Engineer**  
+Разрабатываю прикладные скрипты, системные утилиты и инструменты автоматизации.
 
 ---
 
@@ -11,16 +12,14 @@
   <img src="https://img.shields.io/badge/AutoIt-1C1C1C?style=for-the-badge&logo=autohotkey&logoColor=00A3E3" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Activities & Focus
+## 🚀 Focus
 
 <p align="center">
-  Automating routine tasks • Windows scripts • Gaming tools • Learning new technologies
+  Автоматизация • Скрипты и утилиты • Тулзы для игр • Оптимизация процессов
 </p>
 
 ---
@@ -28,11 +27,13 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://t.me/q0wqex"><img src="https://img.shields.io/badge/Telegram-@q0wqex-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/q0wqex">
+    <img src="https://img.shields.io/badge/Telegram-@q0wqex-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code once — automate forever.”</i>
+  <i>Code once. Automate always.</i>
 </p>
