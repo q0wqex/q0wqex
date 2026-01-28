@@ -3,10 +3,10 @@
   
   <br>
   
-  <h1>Привет, я q0wqex 👋</h1>
+  <h1>Привет, я q0wqex! 👋</h1>
   
   <p>
-    <b>Превращаю рутину в одну кнопку • Автоматизирую всё, что мешает жить быстрее</b>
+    <b>Люблю упрощать сложное. Пишу скрипты, чтобы освободить время для жизни, и собираю полезные инструменты на каждый день.</b>
   </p>
 
   <p>
@@ -18,36 +18,34 @@
 
 ---
 
-### 🛠 Мой стек инструментов
+### 🛠 На чём я творю
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,cpp,js,git,docker,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,lua,git,docker,vscode" />
 </p>
 
-- **Скрипты и автоматизация:** AutoHotkey, AutoIt, Python, Lua.
-- **Инструменты:** Разработка точечных утилит под Windows, работа с игровыми тулзами.
-- **Философия:** Если процесс можно упростить — значит, он *должен* быть упрощен.
+- **Мой подход:** Если я делаю что-то вручную больше двух раз — пора писать скрипт.
+- **Интересы:** Глубокая настройка Windows, автоматизация игровых процессов и создание легких утилит на Go и Python.
+- **Стэк:** В основном работаю с Python, Go и Lua, не забываю про старый добрый AutoHotkey для быстрой магии под Windows.
 
 ---
 
-### 📊 Моя активность на GitHub
+### 📊 Цифры и активность
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=q0wqex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q0wqex&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=q0wqex&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<!-- Streak временно убран из-за проблем с загрузкой стороннего сервиса -->
 
 ---
 
-### 📡 Связь со мной
+### 📡 Будем на связи?
 
 <p align="center">
   <a href="https://t.me/q0wqex">
-    <img src="https://img.shields.io/badge/Telegram-@q0wqex-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Написать_в_Telegram-@q0wqex-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
