@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./github_profile_banner.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=q0wqex&fontSize=80&animation=fadeIn" />
 
-  <h2>q0wqex | Automation & Scripts</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Automation+Engineer;Backend+Developer+(Go+/+Python);Simplifying+the+routine" alt="Typing SVG" />
 
   <p>
     <img src="https://skillicons.dev/icons?i=go,python,docker,vscode" />
