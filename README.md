@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=q0wqex&fontSize=80&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=q0wqex" alt="q0wqex" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Automation+Engineer;Backend+Developer+(Go+/+Python);Simplifying+the+routine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Automation+Engineer;Backend+Developer;Simplifying+the+routine" alt="Description" />
 
   <p>
     <img src="https://skillicons.dev/icons?i=go,python,docker,vscode" />
