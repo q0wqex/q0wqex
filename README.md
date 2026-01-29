@@ -4,7 +4,7 @@
   <h2>q0wqex | Automation & Scripts</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=autohotkey,autoit,python,go,lua,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,python,docker,vscode" />
   </p>
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=q0wqex&show_icons=true&theme=tokyonight&hide_border=true" />
