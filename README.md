@@ -9,15 +9,13 @@
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=q0wqex&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="850px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q0wqex&theme=tokyonight" />
 
   <br>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q0wqex&theme=tokyonight" />
-  </p>
+  <img width="850px" src="https://github-readme-activity-graph.vercel.app/graph?username=q0wqex&theme=tokyo-night&hide_border=true&area=true" />
 
-  <br>
+  <br><br>
 
   <a href="https://t.me/q0wqex">
     <img src="https://img.shields.io/badge/Connect_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
